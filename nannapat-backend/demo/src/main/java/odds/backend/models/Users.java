@@ -1,2 +1,4 @@
-package odds.backend.models;public class Users {
+package odds.backend.models;
+
+public class Users {
 }

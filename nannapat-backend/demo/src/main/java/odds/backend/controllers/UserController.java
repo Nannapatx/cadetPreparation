@@ -1,2 +1,4 @@
-package odds.backend.controllers;public class UserController {
+package odds.backend.controllers;
+
+public class UserController {
 }

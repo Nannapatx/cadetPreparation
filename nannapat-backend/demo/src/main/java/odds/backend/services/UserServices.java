@@ -1,2 +1,4 @@
-package odds.backend.services;public class UserServices {
+package odds.backend.services;
+
+public class UserServices {
 }
