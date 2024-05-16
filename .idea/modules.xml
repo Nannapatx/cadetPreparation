@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cadetPreparation.iml" filepath="$PROJECT_DIR$/.idea/cadetPreparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nannapat-backend/demo/demo.iml" filepath="$PROJECT_DIR$/nannapat-backend/demo/demo.iml" />
     </modules>
   </component>
 </project>
